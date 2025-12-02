@@ -5,8 +5,8 @@
 A visually rich and interactive Power BI dashboard designed to analyze Blinkit’s grocery sales performance. This dashboard highlights key business metrics, category insights, outlet comparisons, and customer behavior to support strategic decision-making.
 
 🖼️ Dashboard Preview
-<div align="center"> <img src="./screenshot.png" alt="Blinkit Dashboard" width="85%"> </div>
-🔥 Highlights of the Dashboard
+<img width="1330" height="727" alt="image" src="https://github.com/user-attachments/assets/4470ffd9-38c4-4dc1-974f-0243ac9b8f9c" />
+
 ⭐ Key Performance Indicators
 
 💰 Total Sales: $1.20M
